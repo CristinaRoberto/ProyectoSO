@@ -5,5 +5,5 @@
   Verificado por David Sola
   Video hecho por Julen Sayago
  ```
-  [Version 1](https://www.youtube.com/watch?v=ubzGZNg5Ke4)
+  [Video Version 1](https://www.youtube.com/watch?v=ubzGZNg5Ke4)
   
