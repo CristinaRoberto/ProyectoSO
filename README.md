@@ -1,5 +1,5 @@
 # ProyectoSO - Grupo M10
-# VERSION 1
+## VERSION 1
 ```
   Manager: Cristina Roberto
   Verificador: David Sola
