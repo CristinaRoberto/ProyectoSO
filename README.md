@@ -1,7 +1,9 @@
 # ProyectoSO - Grupo M10
-## VERSION 1
+## MEMORY
+###### VERSION 1
 ```
-  Manager: Cristina Roberto
+--Cliente-Servidor y Consultas básicas--
+  Manager: Cristina Roberto 
   Verificador: David Sola
   Comunicador: Julen Sayago
  ```
