@@ -2,7 +2,8 @@
 ## MEMORY
 ###### VERSION 1
 ```
---Cliente-Servidor y Consultas básicas--
+Cliente-Servidor y Consultas básicas
+
   Manager: Cristina Roberto 
   Verificador: David Sola
   Comunicador: Julen Sayago
