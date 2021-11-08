@@ -10,3 +10,12 @@ Cliente-Servidor y Consultas básicas
  ```
   [Video Version 1](https://www.youtube.com/watch?v=ubzGZNg5Ke4)
   
+###### VERSION 2
+```
+Lista de conectados 
+
+  Manager: David Sola
+  Verificador: Julen Sayago
+  Comunicador: Cristina Roberto
+ ```
+  [Video Version 2](https://www.youtube.com/watch?v=Hbv2ZS7CQ2Y)
