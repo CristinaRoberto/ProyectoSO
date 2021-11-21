@@ -1,0 +1,64 @@
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Consultas.resources
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Consultas2.resources
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Entrar.resources
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Registro.resources
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Memory.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\PROJECTE SO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\PROJECTE SO\Memory\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\PROJECTE SO\Memory\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\PROJECTE SO\Memory\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\PROJECTE SO\Memory\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\PROJECTE SO\Memory\WindowsFormsApplication1\obj\x86\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\PROJECTE SO\Memory\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Entrar.resources
+C:\Users\David\Desktop\PROJECTE SO\Memory\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Desktop\PROJECTE SO\Memory\WindowsFormsApplication1\obj\x86\Debug\Memory.csproj.GenerateResource.Cache
+C:\Share\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Share\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Share\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Share\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Share\WindowsFormsApplication1\obj\x86\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Share\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Entrar.resources
+C:\Share\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Share\WindowsFormsApplication1\obj\x86\Debug\Memory.csproj.GenerateResource.Cache
+C:\Share\Memory\Version_02\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Share\Memory\Version_02\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\julen\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\julen\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\Memory\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\Memory\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\Memory\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\Memory\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\Memory\WindowsFormsApplication1\obj\x86\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Memory\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Entrar.resources
+C:\Users\David\Desktop\Memory\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Desktop\Memory\WindowsFormsApplication1\obj\x86\Debug\Memory.csproj.GenerateResource.Cache
+C:\Users\Cristina\Desktop\CRISTINA\UNI\1ACTUAL\SO\Memory\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristina\Desktop\CRISTINA\UNI\1ACTUAL\SO\Memory\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\julen\Desktop\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\julen\Desktop\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\julen\Desktop\Version4\WindowsFormsApplication1\obj\x86\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\julen\Desktop\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Entrar.resources
+C:\Users\julen\Desktop\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\julen\Desktop\Version4\WindowsFormsApplication1\obj\x86\Debug\Memory.csproj.GenerateResource.Cache
+C:\Users\julen\Desktop\Version4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\julen\Desktop\Version4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\Proves SO\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\Proves SO\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\Proves SO\Version4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\Proves SO\Version4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\Proves SO\Version4\WindowsFormsApplication1\obj\x86\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Proves SO\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Entrar.resources
+C:\Users\David\Desktop\Proves SO\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Desktop\Proves SO\Version4\WindowsFormsApplication1\obj\x86\Debug\Memory.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\PROJECTE SO1\ProyectoSO\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\PROJECTE SO1\ProyectoSO\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\PROJECTE SO1\ProyectoSO\Version4\WindowsFormsApplication1\obj\x86\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Proves SO\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\Proves SO\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Desktop\unico\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Desktop\unico\Version4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
